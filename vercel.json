@@ -1,0 +1,1 @@
+{"routes":[{"src":"/","dest":"/index.html"},{"src":"/about","dest":"/about.html"},{"src":"/products","dest":"/products.html"},{"src":"/product-details","dest":"/product-details.html"},{"src":"/cart","dest":"/cart.html"},{"src":"/checkout","dest":"/checkout.html"},{"src":"/contact","dest":"/contact.html"},{"src":"/blog","dest":"/blog.html"}]}
